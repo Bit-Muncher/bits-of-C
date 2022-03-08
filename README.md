@@ -1,5 +1,6 @@
 # bits-of-C
 A handful of tutorials for creating libraries I've found useful in my own projects.
+Some of the tutorials assume a reasonably strong knowledge of C (or programming logic in general). I'm not a professional writer, so if things don't look right or stuff gets a bit wordy, toss an EMAIL my way or post and issue.
 
 All files (including this readme) fall under The Unlicense, meaning you can do whatever you want with anything from this repo.
 
